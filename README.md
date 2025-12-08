@@ -28,5 +28,4 @@ I enjoy learning new technologies and constantly improving my skills in programm
 ## 📫 Contact Me
 
 - Email: xoliqberdiyevbehruz12@gmail.com  
-- LinkedIn: [linkedin.com/in/behruzx](https://www.linkedin.com/in/behruz-xoliqberdiyev-18935132a/)
-
+- LinkedIn: https://www.linkedin.com/in/behruz-xoliqberdiyev-18935132a/
