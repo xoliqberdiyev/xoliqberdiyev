@@ -25,12 +25,6 @@ I enjoy learning new technologies and constantly improving my skills in programm
 
 ---
 
-## 📊 GitHub Stats
-
-![Behruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=BehruzXoliqbediyev&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 
 - Email: xoliqberdiyevbehruz12@gmail.com  
