@@ -21,7 +21,8 @@ I enjoy learning new technologies and constantly improving my skills in programm
 ## 🌱 Currently Learning
 
 - Advanced Go backend techniques  
-- Rust for production-level projects  
+- Rust for production-level projects
+- English for IELTS certificate
 
 ---
 
