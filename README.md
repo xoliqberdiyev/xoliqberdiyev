@@ -1,4 +1,4 @@
-# Hi, I'm Behruz Xoliqbediyev 👋
+# Hi, I'm Behruz Xoliqberdiyev 👋
 
 I am a passionate backend developer who loves building efficient and scalable applications.  
 I enjoy learning new technologies and constantly improving my skills in programming and software development.
